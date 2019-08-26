@@ -1,0 +1,46 @@
+body{
+  background-image: url("img2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  position: relative;
+}
+
+.astro {
+  background-color: black;
+  text-align:left;
+  width: 100px
+  margin-left:auto;
+  color: white;
+}
+
+
+.pp{
+  padding: inherit;
+}
+
+.ll{
+  center
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.hh{
+  center
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+.tp{
+  background-color: black;
+  color:white;
+}
+.pt{
+  background-color: black;
+  color: white;
+}
